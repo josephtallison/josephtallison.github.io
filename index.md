@@ -21,7 +21,7 @@ The tech stack includes:
   * D3.js and Plotly.js
   * Vue.js with Bootstrap
 
-Before SomaLogic I recieved my PhD from Colorado State University (CSU) with [Dr. Anthony Rappé](http://www.chem.colostate.edu/person/?id=901886AF3A006543D9B2E19620DF8A92&sq=t) in computational chemistry where I developed and applied methodologies to elicit enthalpic global minima and reaction pathways. This work was primarily programmed in Fortran 66 and executed on the CRAY at CSU.
+Before SomaLogic I received my PhD from Colorado State University (CSU) with [Dr. Anthony Rappé](http://www.chem.colostate.edu/person/?id=901886AF3A006543D9B2E19620DF8A92&sq=t) in computational chemistry where I developed and applied methodologies to elicit enthalpic global minima and reaction pathways. This work was primarily programmed in Fortran 66 and executed on the CRAY at CSU.
 
 I then acquired a bioinformatics post-doctoral position in the Microbiology, Immunology, and Pathology Department with [Dr. Mark Stenglein](https://www.stengleinlab.org/) where I focused on the development of metagenomic analysis tools as well as supporting the NGS Core Facility at CSU.
 
