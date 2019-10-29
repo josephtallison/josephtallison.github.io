@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: joeytallison
 github_username:  josephtallison
 repository: "josephtallison"
+linked_in: joseph-allison-97678415
 
 # Build settings
 plugins:

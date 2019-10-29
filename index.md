@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Joseph T Allison Home
+title: About
 ---
+
+I am a Bioinformatics Scientist II at SomaLogic where I have worked to establish a full stack data analytics solution to enable statistical process control.
+
+
+
+
+
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
