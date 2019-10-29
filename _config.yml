@@ -19,10 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Bootstrap 4 start up project for Jekyll and Github Pages
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josephtallison
-github_username:  jekyll
-
-# repository: "josephtallison"
+twitter_username: joeytallison
+github_username:  josephtallison
+repository: "josephtallison"
 
 # Build settings
 plugins:
