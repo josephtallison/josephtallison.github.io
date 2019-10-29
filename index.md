@@ -27,4 +27,4 @@ I then acquired a bioinformatics post-doctoral position in the Microbiology, Imm
 
 ___
 
-In my spare time I moonlight as an iOS app developer with my father where we have created an organic chemistry reference app called [TapOChem](https://apps.apple.com/us/app/tap-ochem/id579861146). I like to think of it as the best one out there but that might just be my bias talking.
+In my spare time I moonlight as an iOS app developer with my father where we have created an organic chemistry reference app called [TapOChem](https://apps.apple.com/us/app/tap-ochem/id579861146). I like to think of it as the best one out there but that might just be my bias talking. 
