@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 I am a Bioinformatics Scientist (II) at [Somalogic](www.somalogic.com) in the Production Bioinformatics group. My work has been focused on full stack development of a data analytics pipeline to enable statistical process control of the SOMAscan Assay. Applications include:
   * ML-based anomaly detection of highly dimensional data with lead generation utilizing graph networks of process & material data followed by downstream impact analysis
   * Scalable quality reporting powered by seamless traversal between abstractions of data from experiment summary statistics to individual SOMAmer stability
-  * Creation of proteomic data lakes for model development in R & neural network training wherein data provenance is fully maintained
+  * Creation of proteomic data lakes wherein data provenance is fully maintained for model development in R & neural network training 
 
 The tech stack includes:
   * Python w/ heavy utilization of the data science libraries
